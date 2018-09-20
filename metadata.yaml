@@ -1,5 +1,8 @@
 _repo: Ireland-under-the-Tudors-with-a-Succinct-Account-of-the-Earlier-History-Vol-3-of-3_52713
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52713-h/images/cover.jpg
 creator:
   author:
     agent_name: Bagwell, Richard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '41492'
     url: http://www.gutenberg.org/2009/agents/41492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52713#Ireland-under-the-Tudors-with-a-Succinct-Account-of-the-Earlier-History-Vol-3-of-3
 gutenberg_issued: '2016-08-03'
 gutenberg_type: Text
 identifiers:
