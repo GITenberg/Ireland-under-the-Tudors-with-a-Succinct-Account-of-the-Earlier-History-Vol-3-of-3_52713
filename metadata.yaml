@@ -1,0 +1,25 @@
+_repo: Ireland-under-the-Tudors-with-a-Succinct-Account-of-the-Earlier-History-Vol-3-of-3_52713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bagwell, Richard
+    birthdate: 1840
+    deathdate: 1918
+    gutenberg_agent_id: '41492'
+    url: http://www.gutenberg.org/2009/agents/41492
+description: ''
+gutenberg_issued: '2016-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- History -- 16th century'
+- !lcc 'DA'
+- GITenberg
+title: Ireland under the Tudors, with a Succinct Account of the Earlier History. Vol.
+  3 (of 3)
+url: http://www.gutenberg.org/ebooks/52713
